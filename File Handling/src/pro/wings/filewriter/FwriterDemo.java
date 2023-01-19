@@ -7,7 +7,7 @@ public class FwriterDemo {
 public static void main(String[] args) {
 	FileWriter fw;
 	try {
-		fw = new FileWriter("zzz.txt",true);
+		fw = new FileWriter("zzz.txt",false);
 		fw.write(99);
 		fw.write("urga\n softwareSolution");
 		fw.write('\n');

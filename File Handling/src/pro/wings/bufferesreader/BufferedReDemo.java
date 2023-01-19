@@ -11,7 +11,7 @@ public class BufferedReDemo {
 public static void main(String[] args) throws IOException {
 	FileReader f;
 	try {
-		f = new FileReader("C:\\Users\\Shree\\Desktop\\eclipse-workspace\\File Handling\\src\\pro\\wings\\filereader\\xyz.txt");
+		f = new FileReader("C:\\Users\\Shree\\git\\File-Handling\\File Handling\\abc.txt");
 		BufferedReader br=new BufferedReader(f);
 		String line=br.readLine();
 		while(line!=null)

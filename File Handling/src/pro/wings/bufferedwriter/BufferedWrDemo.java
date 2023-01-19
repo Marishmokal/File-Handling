@@ -18,11 +18,7 @@ public static void main(String[] args) {
 		bw.newLine();
 		bw.write("marish");
 		bw.flush();
-		bw.close();
-		
-		
-		
-		
+		bw.close();	
 		
 	} catch (IOException e) {
 		// TODO Auto-generated catch block

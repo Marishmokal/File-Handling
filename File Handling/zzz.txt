@@ -1,6 +1,3 @@
 curga
  softwareSolution
 abc
-curga
- softwareSolution
-abc
